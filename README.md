@@ -46,9 +46,6 @@ There are a lot of support materials, and the tolerance needs to be tuned right 
 I find the following parameters work best for my print:
 - Top/Bottom Speed: 30 mm/s 
 - Support Structure: Tree
-- Support Overhang Angle: 70.0 
-- Support Interface Density: 45%
-- Support Interface Pattern: Line
 - Fan Speed Override: True
 - Support Skin Fan Speed: 100%
 
