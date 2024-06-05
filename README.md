@@ -54,7 +54,7 @@ I find the following parameters work best for my print:
 Precompiled VIA-enabled firmware: 
 
 - Flash [penk_weirdflexbutok36_via.uf2](firmware/penk_weirdflexbutok36_via.uf2) to the RP2040-Zero.
-- Load the [via.json](firmware/QMK/via.json) file in `Design` tab for [VIA](https://usevia.app) configuration.
+- Load the [via.json](firmware/QMK/keyboards/penk/weirdflexbutok36/via.json) file in `Design` tab for [VIA](https://usevia.app) configuration.
 
 ## Keycaps 
 
