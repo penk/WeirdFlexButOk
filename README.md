@@ -4,6 +4,8 @@ A hot-swappable unibody ergo split keyboard with a 15° tilt and 10° tent.
 
 ![](images/keyboard.jpg)
 
+This is inspired by Joe Scotto's handwired [ScottoErgo](https://scottokeebs.com/blogs/keyboards/scottoergo-handwired-keyboard), but opt for Choc spacing and hot-swap sockets, plus a super-bendy 0.8mm PCB with kerf bending cuts. It flexes to follow the case’s contour, providing a 15° tilt and 10° tent from one FR4 PCB. 
+
 ## Bill of Materials (BOM)
 
 Quantity | Item 
