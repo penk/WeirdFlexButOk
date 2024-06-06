@@ -39,11 +39,13 @@ The complete PCB design project is in the [kicad/](kicad/) folder.
 
 3D print the case with the provided [STL files](case/). 
 
-![](images/case.jpg)
+| ![](images/3dprint.jpg) | ![](images/case.jpg) |
+|---|---|
 
-There are a lot of support materials, and the tolerance needs to be tuned right for the switches (14.2x14.2mm) to fit.
+There will be a lot of support materials, and the tolerance needs to be tuned right for the switches (14.2x14.2mm) to fit.
 
 I find the following parameters work best for my print:
+
 - Top/Bottom Speed: 30 mm/s 
 - Support Structure: Tree
 - Fan Speed Override: True
