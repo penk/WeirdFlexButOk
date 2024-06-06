@@ -71,7 +71,7 @@ The keycap featured in this image is designed based on the Shiratama profile by 
 - **License:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ### Derivative Work
-The STL file has been modified for Choc spacing and is available here: [Shiratama-choc-1U-set.stl](keycap/Shiratama-choc-1U-set.stl) (Modification by @penk).
+The STL file has been modified for Choc spacing and is available here: [Shiratama-choc-1U-set.stl](keycap/Shiratama-choc-1U-set.stl) (Modification by [@penk](https://github.com/penk)).
 
 This adaptation is intended for personal use only.
 
