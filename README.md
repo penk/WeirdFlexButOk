@@ -68,7 +68,7 @@ The keycap featured in this image is designed based on the Shiratama profile by 
 ### Attribution
 - **Author:** [@taneyats](https://twitter.com/taneyats)
 - **Source:** [Shiratama keycaps](https://taneyats.booth.pm/items/4020198)
-- **License:** [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+- **License:** [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ### Derivative Work
 The STL file has been modified for Choc spacing and is available here: [Shiratama-choc-1U-set.stl](keycap/Shiratama-choc-1U-set.stl) (Modification by [@penk](https://github.com/penk)).
@@ -78,4 +78,4 @@ This adaptation is intended for personal use only.
 ## Copyright and License
 Copyright (c) 2024 Penk Chen. All rights reserved.
 
-All files, except those specifically mentioned as licensed under CC BY-NC 4.0, are licensed under the MIT license. For more information, see the [LICENSE](LICENSE).
+All files, except those specifically mentioned as licensed under Creative Commons, are licensed under the MIT license. For more information, see the [LICENSE](LICENSE).
