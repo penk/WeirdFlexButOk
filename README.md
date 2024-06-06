@@ -12,6 +12,7 @@ Quantity | Item
 --- | --- 
 1 | RP2040-Zero & Pin headers 
 1 | WeirdFlexButOk PCB 
+1 | WeirdFlexButOk case & cover
 36 | Kailh Choc V1 switches  
 36 | Kailh Choc V1 Hot-swap sockets 
 36 | 1N4148 diodes (SMD)
