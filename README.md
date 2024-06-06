@@ -27,7 +27,7 @@ Quantity | Item
 To place an order for the WeirdFlexButOk PCB:
 
 - Use the Gerber files in the [production/](production/) folder. 
-- Optionally, you can utilize the [BOM](production/BOM.csv) and [CPL](production/CPL.csv) files with a PCBA service. All components are soldered to the bottom side of the board.
+- Optionally, you can utilize the [BOM](production/BOM.csv) and [CPL](production/CPL.csv) files with a PCBA service. All components (except RP2040-Zero) are soldered to the bottom side of the board.
 
 Make sure to select the following specs so the PCB can flex:
 
