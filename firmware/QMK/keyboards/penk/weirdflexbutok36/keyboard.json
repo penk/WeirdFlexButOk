@@ -8,9 +8,9 @@
         "bootmagic": true,
         "command": false,
         "console": false,
-        "extrakey": true,
+        "extrakey": false,
         "mousekey": true,
-        "nkro": true,
+        "nkro": false,
         "rgblight": true,
 	"rgb_matrix": false
     },
@@ -20,11 +20,13 @@
         "led_count": 2,
         "sleep": true,
         "animations": {
-	    "breathing": true
+            "breathing": true,
+            "static_gradient": true
         }
     },
     "ws2812": {
-        "pin": "GP26"
+        "pin": "GP26",
+	"driver": "vendor"
     },
     "matrix_pins": {
         "cols": [
